@@ -1,3 +1,2 @@
 # GitCourse
-Learning
 ## Hello World
